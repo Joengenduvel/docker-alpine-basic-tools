@@ -1,2 +1,2 @@
 FROM alpine
-RUN apk add --no-cache jq openssl curl
+RUN apk add --no-cache jq openssl curl bash
